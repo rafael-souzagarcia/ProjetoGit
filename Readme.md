@@ -1,1 +1,2 @@
-Olá esse projeto ensina vc a usar o GIT
+Olá esse é meu projeto do GIT
+primeira alteração
